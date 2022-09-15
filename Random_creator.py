@@ -3,19 +3,6 @@ import random
 import plotly.graph_objects as go
 import pandas as pd
 
-"""
-README:
-   you can install required packages by writing in terminal in mac OS or linux OS or in an IDE
-   or command prompt in windows to:
-   pip install plotly==5.5.0
-   pip install pandas
-   pip install random 
-   or
-   pip3 install plotly==5.5.0
-   pip3 install pandas
-   pip3 install random
-"""
-
 # DEFINE REQUIRED VARIABLES
 will_be_added_list = []  # inside-lists in nested lists
 main_list = []
