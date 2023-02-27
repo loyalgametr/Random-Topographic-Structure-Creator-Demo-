@@ -20,12 +20,23 @@
 ![2](https://user-images.githubusercontent.com/70113249/190429897-221e0e62-13c6-4a6b-9e10-f5527550e41c.jpg)
 
 ## Required Libraries:
-   
-   Can be typed in terminal or command prompt considering what OS you are using. <br />
-   pip install plotly==5.5.0 <br />
-   pip install pandas <br />
-   pip install random  <br />
-   or <br />
-   pip3 install plotly==5.5.0 <br />
-   pip3 install pandas <br />
-   pip3 install random
+  ```
+  numpy==1.22.4
+  pandas==1.4.2
+  plotly==5.5.0
+  python-dateutil==2.8.2
+  pytz==2022.1
+  six==1.16.0
+  tenacity==8.0.1
+  ``` 
+### to install
+
+``` 
+  pip install numpy==1.22.4
+  pip install pandas==1.4.2
+  pip install plotly==5.5.0
+  pip install python-dateutil==2.8.2
+  pip install pytz==2022.1
+  pip install six==1.16.0
+  pip install tenacity==8.0.1
+``` 
